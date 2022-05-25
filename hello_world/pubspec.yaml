@@ -16,6 +16,8 @@ dependencies:
   http: ^0.13.4
   web_socket_channel: ^2.1.0
   dart_web3: ^0.0.3
+  tflite_flutter: ^0.8.0
+  font_awesome_flutter: ^10.1.0
 
 dev_dependencies:
   flutter_test:
@@ -26,3 +28,4 @@ flutter:
   uses-material-design: true
   assets:
     - src/artifacts/HelloWorld.json
+    - assets/
